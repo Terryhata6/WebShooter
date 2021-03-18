@@ -14,35 +14,46 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TrowingObjects:
   - SpawnPoint: 0
+    PositionOfThrowing: 0.1
     TimeBeforeThrowing: 2
     ForceOfThrowing: 3000
   - SpawnPoint: 2
+    PositionOfThrowing: 0.3
     TimeBeforeThrowing: 0.5
     ForceOfThrowing: 3000
   - SpawnPoint: 4
+    PositionOfThrowing: 0.7
     TimeBeforeThrowing: 0.5
     ForceOfThrowing: 3200
   - SpawnPoint: 1
+    PositionOfThrowing: 0.9
     TimeBeforeThrowing: 2
     ForceOfThrowing: 2800
   - SpawnPoint: 0
+    PositionOfThrowing: 0.5
     TimeBeforeThrowing: 2
     ForceOfThrowing: 3000
   - SpawnPoint: 6
+    PositionOfThrowing: 0.305
     TimeBeforeThrowing: 0
     ForceOfThrowing: 3000
   - SpawnPoint: 2
+    PositionOfThrowing: 0.828
     TimeBeforeThrowing: 2
     ForceOfThrowing: 3000
   - SpawnPoint: 1
+    PositionOfThrowing: 0.5
     TimeBeforeThrowing: 2
     ForceOfThrowing: 3000
   - SpawnPoint: 0
+    PositionOfThrowing: 0.129
     TimeBeforeThrowing: 2
     ForceOfThrowing: 3200
   - SpawnPoint: 3
+    PositionOfThrowing: 0.5
     TimeBeforeThrowing: 0
     ForceOfThrowing: 2800
   - SpawnPoint: 6
+    PositionOfThrowing: 0.892
     TimeBeforeThrowing: 0
     ForceOfThrowing: 3200

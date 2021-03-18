@@ -55,6 +55,6 @@ public class UIController : MonoBehaviour
     {
         WinPanel.SetActive(true);
         WinObjectsText.text = _counter.AmountOfCollectedObjects + "/" + _counter.MaxAmountOfObjects + " objects caught";
-        WinCoinText.text = _counter.AmountOfCollectedCoins + " coins caught";
+        WinCoinText.text = ": " +_counter.AmountOfCollectedCoins ;
     }
 }

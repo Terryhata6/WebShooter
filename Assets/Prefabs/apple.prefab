@@ -97,6 +97,8 @@ MonoBehaviour:
   SpiderWeb: {fileID: 5148378486662662931, guid: 94185bfaa30a10349bbbd2991f21c7d1,
     type: 3}
   IsStucked: 0
+  IsCoin: 0
+  NeedToRotate: 1
 --- !u!54 &2769413910777664031
 Rigidbody:
   m_ObjectHideFlags: 0

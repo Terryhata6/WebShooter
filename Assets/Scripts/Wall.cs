@@ -11,7 +11,6 @@ public class Wall : MonoBehaviour
 		Debug.Log(collision.gameObject.name);
 		if (collision.gameObject.CompareTag("Web"))
 		{
-			Debug.Log("Eeeeeee");
 			GameObject dd = Instantiate(Web, collision.gameObject.transform.position + new Vector3(0, 0, -0.4f), Quaternion.Euler(0, 180f, Random.Range(0, 360)));
 			dd.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
 			if (IsRightWall)
